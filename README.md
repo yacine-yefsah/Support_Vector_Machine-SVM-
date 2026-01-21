@@ -17,5 +17,5 @@ Ce projet de Classification Multiclasse a pour but d'identifier l'origine de tro
 * `Wine_Classification.ipynb` : Notebook complet avec EDA et Modélisation.
 * `requirements.txt` : Liste des dépendances (Scikit-Learn, Pandas, Seaborn).
 
-* ---
+ ---
 *Projet réalisé par Yacine YEFSAH - Étudiant en M1 SAAD, Université de Caen Normandie.*
